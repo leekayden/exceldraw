@@ -201,15 +201,15 @@ const initializeScene = async (opts: {
 
 const PlusLPLinkJSX = (
   <p style={{ direction: "ltr", unicodeBidi: "embed" }}>
-    Introducing Excalidraw+
+    Built by Kayden Lee using web technologies
     <br />
-    <a
-      href="https://plus.excalidraw.com/plus?utm_source=excalidraw&utm_medium=banner&utm_campaign=launch"
+    {/* <a
+      href=""
       target="_blank"
       rel="noreferrer"
     >
-      Try out now!
-    </a>
+      
+    </a> */}
   </p>
 );
 
